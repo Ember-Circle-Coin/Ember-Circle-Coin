@@ -1,4 +1,10 @@
-# Veil of Echoes Project ## Hi there 👋 ### Introduction Welcome to the Veil of Echoes a groundbreaking revonolutionary multi-sensory langauge system! This project integrates colors, tones, and numerical values to create a unique and intuitive communication code. Designed for both practicality and creativity, the system leverages multisensory elements for richer and more engaging communication.
+# Veil of Echoes Project
+
+## Hi there 👋
+
+### Introduction
+Welcome to the Veil of Echoes, a groundbreaking revolutionary multi-sensory language system! This project integrates colors, tones, and numerical values to create a unique and intuitive communication code. Designed for both practicality and creativity, the system leverages multisensory elements for richer and more engaging communication.
+
 
 ### Project Overview
 - 🔭 **Purpose**: Develop a comprehensive, multisensory language system.
