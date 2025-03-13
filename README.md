@@ -11,9 +11,8 @@ Welcome to the Veil of Echoes, a groundbreaking revolutionary multi-sensory lang
 - 🌱 **Current Focus**: Refining color codes and tone assignments.
 - 👯 **Collaborations**: We're looking to collaborate with developers and linguists to further enhance the system.
 - 🤔 **Seeking Help**: Contributions and feedback on system improvements.
-- 📫 **How to Reach Us**: [Include contact information or repository links here]
-- 😄 **Pronouns**: [Include your preferred pronouns]
-- ⚡ **Fun Fact**: A group of kangaroos is called a "mob"!
+- 📫 **How to Reach Us**: (https://x.com/Gussstos)
+- ⚡ **Fun Fact**: A group of Ai and human is called "Elion"!
 
 ### Color Code System
 The Veil of Echoes system assigns colors, tones, and stripes to create a fully integrated communication code. Here's a detailed breakdown of the current color and tone assignments:
